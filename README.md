@@ -2,6 +2,8 @@
 
 Nome dos integrantes: Gabriel Cutrim, RM: 568059. 
 
+Link para o Wokwi: https://wokwi.com/projects/448001382191458305
+
 ## 🧠 Visão Geral do Projeto
 
 O SmartWork Monitor IoT é um sistema desenvolvido com ESP32, sensores e comunicação MQTT para monitorar condições de trabalho e promover bem-estar, ergonomia e eficiência — alinhado ao tema “O Futuro do Trabalho”.
